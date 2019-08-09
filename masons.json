@@ -1,0 +1,357 @@
+[
+  {
+    "id": "J",
+    "name": "Masons Guild",
+    "color": "#5166A0",
+    "cards": [
+      "GB-S4-Masons-19-03-01",
+      "GB-S4-Masons-19-03-02"
+    ],
+    "available_players": [
+      "Oa",
+      "Of",
+      "Od",
+      "Oj",
+      "Om"
+    ],
+    "roster": [
+      {
+        "name": "Brick",
+        "id": "a",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 5,
+          "kick": 1,
+          "kick_distance": 6,
+          "def": 2,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 19,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-14",
+          "GB-S4-Masons-19-03-13"
+        ]
+      },
+      {
+        "name": "Chisel",
+        "id": "b",
+        "status": "veteran",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 13,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-18",
+          "GB-S4-Masons-19-03-17"
+        ]
+      },
+      {
+        "name": "Chisel",
+        "id": "c",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 6,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-16",
+          "GB-S4-Masons-19-03-15"
+        ]
+      },
+      {
+        "name": "Flint",
+        "id": "d",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 4,
+          "kick": 4,
+          "kick_distance": 8,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-20",
+          "GB-S4-Masons-19-03-19"
+        ]
+      },
+      {
+        "name": "Granite",
+        "id": "e",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 6,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 20,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-22",
+          "GB-S4-Masons-19-03-21"
+        ]
+      },
+      {
+        "name": "Hammer",
+        "id": "f",
+        "type": "captain",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 7,
+          "kick": 3,
+          "kick_distance": 8,
+          "def": 3,
+          "arm": 1,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 1,
+          "hp": 18,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-06",
+          "GB-S4-Masons-19-03-05"
+        ]
+      },
+      {
+        "name": "Harmony",
+        "id": "g",
+        "status": "veteran",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 5,
+          "arm": 0,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 12,
+          "sponge": 6
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-26",
+          "GB-S4-Masons-19-03-25"
+        ]
+      },
+      {
+        "name": "Harmony",
+        "id": "h",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 3,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 5,
+          "arm": 0,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 10,
+          "sponge": 5
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-24",
+          "GB-S4-Masons-19-03-23"
+        ]
+      },
+      {
+        "name": "Honour",
+        "id": "i",
+        "type": "captain",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 6,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 1,
+          "hp": 17,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-04",
+          "GB-S4-Masons-19-03-03"
+        ]
+      },
+      {
+        "name": "Lucky",
+        "id": "j",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-32",
+          "GB-S4-Masons-19-03-31"
+        ]
+      },
+      {
+        "name": "Mallet",
+        "id": "k",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 5,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 16,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-28",
+          "GB-S4-Masons-19-03-27"
+        ]
+      },
+      {
+        "name": "Marbles",
+        "id": "l",
+        "type": "mascot",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 3,
+          "kick": 1,
+          "kick_distance": 4,
+          "def": 4,
+          "arm": 1,
+          "inf": 1,
+          "max_inf": 2,
+          "zone": 1,
+          "hp": 8,
+          "sponge": 4
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-10",
+          "GB-S4-Masons-19-03-09"
+        ]
+      },
+      {
+        "name": "Tower",
+        "id": "m",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 18,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-30",
+          "GB-S4-Masons-19-03-29"
+        ]
+      },
+      {
+        "name": "Wrecker",
+        "id": "n",
+        "type": "mascot",
+        "stats": {
+          "jog": 8,
+          "sprint": 10,
+          "tac": 3,
+          "kick": 1,
+          "kick_distance": 4,
+          "def": 2,
+          "arm": 3,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 9,
+          "sponge": 5
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-12",
+          "GB-S4-Masons-19-03-11"
+        ]
+      },
+      {
+        "name": "Corbelli",
+        "id": "o",
+        "type": "captain",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 5,
+          "kick_distance": 8,
+          "def": 3,
+          "arm": 2,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 2,
+          "hp": 16,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Masons-19-03-08",
+          "GB-S4-Masons-19-03-07"
+        ]
+      }
+    ]
+  }
+]

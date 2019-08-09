@@ -1,0 +1,331 @@
+[
+  {
+    "id": "E",
+    "name": "Engineers Guild",
+    "color": "#79121b",
+    "cards": [
+      "GB-S4-Engineers-19-03-01",
+      "GB-S4-Engineers-19-03-02"
+    ],
+    "available_players": [
+      "Pd",
+      "Pf"
+    ],
+    "roster": [
+      {
+        "name": "Ballista",
+        "id": "a",
+        "type": "captain",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 6,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 1,
+          "hp": 18,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-04",
+          "GB-S4-Engineers-19-03-03"
+        ]
+      },
+      {
+        "name": "Colossus",
+        "id": "b",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 2,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 2,
+          "hp": 20,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-14",
+          "GB-S4-Engineers-19-03-13"
+        ]
+      },
+      {
+        "name": "Compound",
+        "id": "c",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 5,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 20,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-30",
+          "GB-S4-Engineers-19-03-29"
+        ]
+      },
+      {
+        "name": "Harriet 'the Hat'",
+        "id": "d",
+        "stats": {
+          "jog": 6,
+          "sprint": 9,
+          "tac": 5,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 16,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-16",
+          "GB-S4-Engineers-19-03-15"
+        ]
+      },
+      {
+        "name": "Hoist",
+        "id": "e",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 5,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 11,
+          "sponge": 6
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-18",
+          "GB-S4-Engineers-19-03-17"
+        ]
+      },
+      {
+        "name": "Locus",
+        "id": "f",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 5,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 15,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-20",
+          "GB-S4-Engineers-19-03-19"
+        ]
+      },
+      {
+        "name": "Mainspring",
+        "id": "g",
+        "type": "mascot",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 2,
+          "kick": 3,
+          "kick_distance": 4,
+          "def": 4,
+          "arm": 1,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 7,
+          "sponge": 4
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-10",
+          "GB-S4-Engineers-19-03-09"
+        ]
+      },
+      {
+        "name": "Mother",
+        "id": "h",
+        "type": "mascot",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 3,
+          "kick": 2,
+          "kick_distance": 4,
+          "def": 4,
+          "arm": 1,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 9,
+          "sponge": 5
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-12",
+          "GB-S4-Engineers-19-03-11"
+        ]
+      },
+      {
+        "name": "Pin Vice",
+        "id": "i",
+        "type": "captain",
+        "stats": {
+          "jog": 7,
+          "sprint": 9,
+          "tac": 6,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 5,
+          "arm": 0,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 1,
+          "hp": 11,
+          "sponge": 6
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-06",
+          "GB-S4-Engineers-19-03-05"
+        ]
+      },
+      {
+        "name": "Ratchet",
+        "id": "j",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 17,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-22",
+          "GB-S4-Engineers-19-03-21"
+        ]
+      },
+      {
+        "name": "Salvo",
+        "id": "k",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 8,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-24",
+          "GB-S4-Engineers-19-03-23"
+        ]
+      },
+      {
+        "name": "Velocity",
+        "id": "l",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 4,
+          "kick": 4,
+          "kick_distance": 8,
+          "def": 5,
+          "arm": 0,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 11,
+          "sponge": 6
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-26",
+          "GB-S4-Engineers-19-03-25"
+        ]
+      },
+      {
+        "name": "Velocity",
+        "id": "m",
+        "status": "veteran",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-28",
+          "GB-S4-Engineers-19-03-27"
+        ]
+      },
+      {
+        "name": "Rivet",
+        "id": "n",
+        "type": "captain",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 6,
+          "kick": 4,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 1,
+          "hp": 18,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Engineers-19-03-08",
+          "GB-S4-Engineers-19-03-07"
+        ]
+      }
+    ]
+  }
+]

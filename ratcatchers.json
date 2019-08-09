@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Ratcatchers Guild",
+    "id": "N",
+    "color": "#1e232d",
+    "cards": [
+      "GB-S4-Ratcatchers-19-02-01",
+      "GB-S4-Ratcatchers-19-02-02"
+    ],
+    "available_players": [
+      "Ka",
+      "Kg"
+    ],
+    "roster": [
+      {
+        "name": "Miasma",
+        "id": "a",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 0,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 16,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Ratcatchers-19-02-08",
+          "GB-S4-Ratcatchers-19-02-07"
+        ]
+      },
+      {
+        "name": "Pelage",
+        "id": "b",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 5,
+          "arm": 0,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 10,
+          "sponge": 5
+        },
+        "cards": [
+          "GB-S4-Ratcatchers-19-02-10",
+          "GB-S4-Ratcatchers-19-02-09"
+        ]
+      },
+      {
+        "name": "Piper",
+        "id": "c",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 5,
+          "arm": 0,
+          "inf": 4,
+          "max_inf": 6,
+          "zone": 1,
+          "hp": 14,
+          "sponge": 7
+        },
+        "type": "captain",
+        "cards": [
+          "GB-S4-Ratcatchers-19-02-04",
+          "GB-S4-Ratcatchers-19-02-03"
+        ]
+      },
+      {
+        "name": "Scourge",
+        "id": "d",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 7,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 0,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 2,
+          "hp": 17,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Ratcatchers-19-02-12",
+          "GB-S4-Ratcatchers-19-02-11"
+        ]
+      },
+      {
+        "name": "Skulk",
+        "id": "e",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 6,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 2,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Ratcatchers-19-02-14",
+          "GB-S4-Ratcatchers-19-02-13"
+        ]
+      },
+      {
+        "name": "Squeak",
+        "id": "f",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 3,
+          "kick": 2,
+          "kick_distance": 4,
+          "def": 3,
+          "arm": 1,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 10,
+          "sponge": 5
+        },
+        "type": "mascot",
+        "cards": [
+          "GB-S4-Ratcatchers-19-02-06",
+          "GB-S4-Ratcatchers-19-02-05"
+        ]
+      }
+    ]
+  }
+]

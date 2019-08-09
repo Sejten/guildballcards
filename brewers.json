@@ -1,0 +1,357 @@
+[
+  {
+    "id": "C",
+    "name": "Brewers Guild",
+    "color": "#d1b433",
+    "cards": [
+      "GB-S4-Brewers-19-03-01",
+      "GB-S4-Brewers-19-03-02"
+    ],
+    "available_players": [
+      "Oa",
+      "Of",
+      "Og",
+      "Oe",
+      "Oh",
+      "Ok"
+    ],
+    "roster": [
+      {
+        "name": "Decimate",
+        "id": "a",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 6,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-14",
+          "GB-S4-Brewers-19-03-13"
+        ]
+      },
+      {
+        "name": "Esters",
+        "id": "b",
+        "type": "captain",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 4,
+          "max_inf": 5,
+          "zone": 1,
+          "hp": 22,
+          "sponge": 11
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-06",
+          "GB-S4-Brewers-19-03-05"
+        ]
+      },
+      {
+        "name": "Friday",
+        "id": "c",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 4,
+          "kick": 3,
+          "kick_distance": 8,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 12,
+          "sponge": 6
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-16",
+          "GB-S4-Brewers-19-03-15"
+        ]
+      },
+      {
+        "name": "Hooper",
+        "id": "d",
+        "stats": {
+          "jog": 4,
+          "sprint": 7,
+          "tac": 5,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 2,
+          "hp": 17,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-18",
+          "GB-S4-Brewers-19-03-17"
+        ]
+      },
+      {
+        "name": "Lucky",
+        "id": "e",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 14,
+          "sponge": 7
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-32",
+          "GB-S4-Brewers-19-03-31"
+        ]
+      },
+      {
+        "name": "Mash",
+        "id": "f",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 3,
+          "zone": 2,
+          "hp": 17,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-20",
+          "GB-S4-Brewers-19-03-19"
+        ]
+      },
+      {
+        "name": "PintPot",
+        "id": "g",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 6,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 2,
+          "zone": 1,
+          "hp": 20,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-22",
+          "GB-S4-Brewers-19-03-21"
+        ]
+      },
+      {
+        "name": "Quaff",
+        "id": "h",
+        "type": "mascot",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 3,
+          "kick": 1,
+          "kick_distance": 4,
+          "def": 4,
+          "arm": 1,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 8,
+          "sponge": 4
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-12",
+          "GB-S4-Brewers-19-03-11"
+        ]
+      },
+      {
+        "name": "Scum",
+        "id": "i",
+        "type": "mascot",
+        "stats": {
+          "jog": 6,
+          "sprint": 8,
+          "tac": 4,
+          "kick": 1,
+          "kick_distance": 4,
+          "def": 5,
+          "arm": 0,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 6,
+          "sponge": 3
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-10",
+          "GB-S4-Brewers-19-03-09"
+        ]
+      },
+      {
+        "name": "Spigot",
+        "id": "j",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 16,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-24",
+          "GB-S4-Brewers-19-03-23"
+        ]
+      },
+      {
+        "name": "Spigot",
+        "id": "k",
+        "status": "veteran",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 8,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 16,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-26",
+          "GB-S4-Brewers-19-03-25"
+        ]
+      },
+      {
+        "name": "Stave",
+        "id": "l",
+        "stats": {
+          "jog": 4,
+          "sprint": 6,
+          "tac": 6,
+          "kick": 1,
+          "kick_distance": 6,
+          "def": 2,
+          "arm": 0,
+          "inf": 1,
+          "max_inf": 3,
+          "zone": 1,
+          "hp": 23,
+          "sponge": 12
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-28",
+          "GB-S4-Brewers-19-03-27"
+        ]
+      },
+      {
+        "name": "Stoker",
+        "id": "m",
+        "stats": {
+          "jog": 4,
+          "sprint": 7,
+          "tac": 5,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 2,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 16,
+          "sponge": 8
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-30",
+          "GB-S4-Brewers-19-03-29"
+        ]
+      },
+      {
+        "name": "Tapper",
+        "id": "n",
+        "type": "captain",
+        "stats": {
+          "jog": 4,
+          "sprint": 7,
+          "tac": 6,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 4,
+          "max_inf": 5,
+          "zone": 2,
+          "hp": 18,
+          "sponge": 9
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-04",
+          "GB-S4-Brewers-19-03-03"
+        ]
+      },
+      {
+        "name": "Corker",
+        "id": "o",
+        "type": "captain",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 7,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 1,
+          "hp": 24,
+          "sponge": 12
+        },
+        "cards": [
+          "GB-S4-Brewers-19-03-08",
+          "GB-S4-Brewers-19-03-07"
+        ]
+      }
+    ]
+  }
+]
