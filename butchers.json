@@ -329,8 +329,7 @@
       },
       {
         "name": "Layne",
-        "id": "n",
-        "type": "captain",
+        "id": "o",
         "stats": {
           "jog": 6,
           "sprint": 8,
