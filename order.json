@@ -4,8 +4,8 @@
     "name": "The Order",
     "color": "#632b7e",
     "cards": [
-      "GB-S4-Order-19-02-01",
-      "GB-S4-Order-19-02-02"
+      "GB-S4-Order-19-08-01",
+      "GB-S4-Order-19-08-02"
     ],
     "roster": [
       {
@@ -26,8 +26,8 @@
           "sponge": 10
         },
         "cards": [
-          "GB-S4-Order-19-02-08",
-          "GB-S4-Order-19-02-07"
+          "GB-S4-Order-19-08-08",
+          "GB-S4-Order-19-08-07"
         ]
       },
       {
@@ -49,8 +49,8 @@
           "sponge": 8
         },
         "cards": [
-          "GB-S4-Order-19-02-04",
-          "GB-S4-Order-19-02-03"
+          "GB-S4-Order-19-08-04",
+          "GB-S4-Order-19-08-03"
         ]
       },
       {
@@ -71,8 +71,8 @@
           "sponge": 11
         },
         "cards": [
-          "GB-S4-Order-19-02-10",
-          "GB-S4-Order-19-02-09"
+          "GB-S4-Order-19-08-10",
+          "GB-S4-Order-19-08-09"
         ]
       },
       {
@@ -82,7 +82,7 @@
           "jog": 6,
           "sprint": 8,
           "tac": 4,
-          "kick": 2,
+          "kick": 3,
           "kick_distance": 8,
           "def": 4,
           "arm": 0,
@@ -93,8 +93,8 @@
           "sponge": 8
         },
         "cards": [
-          "GB-S4-Order-19-02-12",
-          "GB-S4-Order-19-02-11"
+          "GB-S4-Order-19-08-12",
+          "GB-S4-Order-19-08-11"
         ]
       },
       {
@@ -115,8 +115,8 @@
           "sponge": 10
         },
         "cards": [
-          "GB-S4-Order-19-02-14",
-          "GB-S4-Order-19-02-13"
+          "GB-S4-Order-19-08-14",
+          "GB-S4-Order-19-08-13"
         ]
       },
       {
@@ -137,8 +137,8 @@
           "sponge": 6
         },
         "cards": [
-          "GB-S4-Order-19-02-16",
-          "GB-S4-Order-19-02-15"
+          "GB-S4-Order-19-08-16",
+          "GB-S4-Order-19-08-15"
         ]
       },
       {
@@ -160,8 +160,8 @@
         },
         "type": "mascot",
         "cards": [
-          "GB-S4-Order-19-02-06",
-          "GB-S4-Order-19-02-05"
+          "GB-S4-Order-19-08-06",
+          "GB-S4-Order-19-08-05"
         ]
       },
       {
@@ -183,8 +183,8 @@
           "sponge": 7
         },
         "cards": [
-          "GB-S4-Order-19-02-18",
-          "GB-S4-Order-19-02-17"
+          "GB-S4-Order-19-08-18",
+          "GB-S4-Order-19-08-17"
         ]
       }
     ]

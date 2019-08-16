@@ -4,8 +4,8 @@
     "id": "L",
     "color": "#2ab3c5",
     "cards": [
-      "GB-S4-Navigators-19-02-01",
-      "GB-S4-Navigators-19-02-02"
+      "GB-S4-Navigators-19-08-01",
+      "GB-S4-Navigators-19-08-02"
     ],
     "available_players": [
       "Ha",
@@ -30,8 +30,8 @@
           "sponge": 9
         },
         "cards": [
-          "GB-S4-Navigators-19-02-08",
-          "GB-S4-Navigators-19-02-07"
+          "GB-S4-Navigators-19-08-08",
+          "GB-S4-Navigators-19-08-07"
         ]
       },
       {
@@ -52,8 +52,8 @@
           "sponge": 6
         },
         "cards": [
-          "GB-S4-Navigators-19-02-10",
-          "GB-S4-Navigators-19-02-09"
+          "GB-S4-Navigators-19-08-10",
+          "GB-S4-Navigators-19-08-09"
         ]
       },
       {
@@ -74,8 +74,8 @@
           "sponge": 6
         },
         "cards": [
-          "GB-S4-Navigators-19-02-12",
-          "GB-S4-Navigators-19-02-11"
+          "GB-S4-Navigators-19-08-12",
+          "GB-S4-Navigators-19-08-11"
         ]
       },
       {
@@ -96,8 +96,8 @@
           "sponge": 8
         },
         "cards": [
-          "GB-S4-Navigators-19-02-14",
-          "GB-S4-Navigators-19-02-13"
+          "GB-S4-Navigators-19-08-14",
+          "GB-S4-Navigators-19-08-13"
         ]
       },
       {
@@ -119,8 +119,8 @@
         },
         "type": "mascot",
         "cards": [
-          "GB-S4-Navigators-19-02-06",
-          "GB-S4-Navigators-19-02-05"
+          "GB-S4-Navigators-19-08-06",
+          "GB-S4-Navigators-19-08-05"
         ]
       },
       {
@@ -142,8 +142,8 @@
         },
         "type": "captain",
         "cards": [
-          "GB-S4-Navigators-19-02-04",
-          "GB-S4-Navigators-19-02-03"
+          "GB-S4-Navigators-19-08-04",
+          "GB-S4-Navigators-19-08-03"
         ]
       }
     ]
