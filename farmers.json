@@ -4,8 +4,8 @@
     "name": "Farmers Guild",
     "color": "#ea902d",
     "cards": [
-      "GB-S4-Farmers-19-02-01",
-      "GB-S4-Farmers-19-02-02"
+      "GB-S4-Farmers-19-08-01",
+      "GB-S4-Farmers-19-08-02"
     ],
     "roster": [
       {
@@ -27,8 +27,8 @@
           "sponge": 5
         },
         "cards": [
-          "GB-S4-Farmers-19-02-10",
-          "GB-S4-Farmers-19-02-09"
+          "GB-S4-Farmers-19-08-10",
+          "GB-S4-Farmers-19-08-09"
         ]
       },
       {
@@ -49,8 +49,8 @@
           "sponge": 6
         },
         "cards": [
-          "GB-S4-Farmers-19-02-12",
-          "GB-S4-Farmers-19-02-11"
+          "GB-S4-Farmers-19-08-14",
+          "GB-S4-Farmers-19-08-13"
         ]
       },
       {
@@ -71,8 +71,8 @@
           "sponge": 10
         },
         "cards": [
-          "GB-S4-Farmers-19-02-14",
-          "GB-S4-Farmers-19-02-13"
+          "GB-S4-Farmers-19-08-16",
+          "GB-S4-Farmers-19-08-15"
         ]
       },
       {
@@ -87,15 +87,15 @@
           "kick_distance": 6,
           "def": 3,
           "arm": 0,
-          "inf": 4,
+          "inf": 5,
           "max_inf": 6,
           "zone": 2,
           "hp": 26,
           "sponge": 13
         },
         "cards": [
-          "GB-S4-Farmers-19-02-04",
-          "GB-S4-Farmers-19-02-03"
+          "GB-S4-Farmers-19-08-04",
+          "GB-S4-Farmers-19-08-03"
         ]
       },
       {
@@ -107,17 +107,17 @@
           "tac": 5,
           "kick": 3,
           "kick_distance": 6,
-          "def": 3,
+          "def": 4,
           "arm": 0,
           "inf": 2,
           "max_inf": 3,
           "zone": 2,
-          "hp": 19,
-          "sponge": 10
+          "hp": 17,
+          "sponge": 9
         },
         "cards": [
-          "GB-S4-Farmers-19-02-16",
-          "GB-S4-Farmers-19-02-15"
+          "GB-S4-Farmers-19-08-18",
+          "GB-S4-Farmers-19-08-17"
         ]
       },
       {
@@ -139,8 +139,8 @@
           "sponge": 9
         },
         "cards": [
-          "GB-S4-Farmers-19-02-18",
-          "GB-S4-Farmers-19-02-17"
+          "GB-S4-Farmers-19-08-20",
+          "GB-S4-Farmers-19-08-19"
         ]
       },
       {
@@ -161,8 +161,8 @@
           "sponge": 5
         },
         "cards": [
-          "GB-S4-Farmers-19-02-20",
-          "GB-S4-Farmers-19-02-19"
+          "GB-S4-Farmers-19-08-22",
+          "GB-S4-Farmers-19-08-21"
         ]
       },
       {
@@ -183,8 +183,8 @@
           "sponge": 9
         },
         "cards": [
-          "GB-S4-Farmers-19-02-22",
-          "GB-S4-Farmers-19-02-21"
+          "GB-S4-Farmers-19-08-24",
+          "GB-S4-Farmers-19-08-23"
         ]
       },
       {
@@ -206,8 +206,8 @@
           "sponge": 3
         },
         "cards": [
-          "GB-S4-Farmers-19-02-08",
-          "GB-S4-Farmers-19-02-07"
+          "GB-S4-Farmers-19-08-08",
+          "GB-S4-Farmers-19-08-07"
         ]
       },
       {
@@ -228,8 +228,8 @@
           "sponge": 10
         },
         "cards": [
-          "GB-S4-Farmers-19-02-24",
-          "GB-S4-Farmers-19-02-23"
+          "GB-S4-Farmers-19-08-26",
+          "GB-S4-Farmers-19-08-25"
         ]
       },
       {
@@ -246,12 +246,12 @@
           "inf": 1,
           "max_inf": 4,
           "zone": 2,
-          "hp": 16,
-          "sponge": 8
+          "hp": 18,
+          "sponge": 9
         },
         "cards": [
-          "GB-S4-Farmers-19-02-26",
-          "GB-S4-Farmers-19-02-25"
+          "GB-S4-Farmers-19-08-28",
+          "GB-S4-Farmers-19-08-27"
         ]
       },
       {
@@ -273,8 +273,8 @@
           "sponge": 10
         },
         "cards": [
-          "GB-S4-Farmers-19-02-06",
-          "GB-S4-Farmers-19-02-05"
+          "GB-S4-Farmers-19-08-06",
+          "GB-S4-Farmers-19-08-05"
         ]
       },
       {
@@ -295,8 +295,30 @@
           "sponge": 11
         },
         "cards": [
-          "GB-S4-Farmers-19-02-28",
-          "GB-S4-Farmers-19-02-27"
+          "GB-S4-Farmers-19-08-30",
+          "GB-S4-Farmers-19-08-29"
+        ]
+      },
+      {
+        "name": "Amber",
+        "id": "n",
+        "stats": {
+          "jog": 5,
+          "sprint": 8,
+          "tac": 5,
+          "kick": 2,
+          "kick_distance": 6,
+          "def": 4,
+          "arm": 0,
+          "inf": 1,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 18,
+          "sponge": 6
+        },
+        "cards": [
+          "GB-S4-Farmers-19-08-12",
+          "GB-S4-Farmers-19-08-11"
         ]
       }
     ]

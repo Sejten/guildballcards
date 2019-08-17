@@ -4,8 +4,8 @@
     "name": "Fishermen Guild",
     "color": "#3aa9b6",
     "cards": [
-      "GB-S4-Fishermen-19-02-01",
-      "GB-S4-Fishermen-19-02-02"
+      "GB-S4-Fishermen-19-08-01",
+      "GB-S4-Fishermen-19-08-02"
     ],
     "available_players": [
       "Lv",
@@ -30,8 +30,8 @@
           "sponge": 6
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-14",
-          "GB-S4-Fishermen-19-02-13"
+          "GB-S4-Fishermen-19-08-14",
+          "GB-S4-Fishermen-19-08-13"
         ]
       },
       {
@@ -42,8 +42,8 @@
           "jog": 4,
           "sprint": 6,
           "tac": 6,
-          "kick": 3,
-          "kick_distance": 6,
+          "kick": 4,
+          "kick_distance": 8,
           "def": 3,
           "arm": 1,
           "inf": 4,
@@ -53,8 +53,8 @@
           "sponge": 9
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-06",
-          "GB-S4-Fishermen-19-02-05"
+          "GB-S4-Fishermen-19-08-06",
+          "GB-S4-Fishermen-19-08-05"
         ]
       },
       {
@@ -75,8 +75,8 @@
           "sponge": 7
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-16",
-          "GB-S4-Fishermen-19-02-15"
+          "GB-S4-Fishermen-19-08-16",
+          "GB-S4-Fishermen-19-08-15"
         ]
       },
       {
@@ -93,19 +93,19 @@
           "inf": 2,
           "max_inf": 3,
           "zone": 2,
-          "hp": 14,
+          "hp": 13,
           "sponge": 7
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-18",
-          "GB-S4-Fishermen-19-02-17"
+          "GB-S4-Fishermen-19-08-18",
+          "GB-S4-Fishermen-19-08-17"
         ]
       },
       {
         "name": "Jac",
         "id": "e",
         "stats": {
-          "jog": 5,
+          "jog": 6,
           "sprint": 8,
           "tac": 5,
           "kick": 3,
@@ -115,25 +115,25 @@
           "inf": 2,
           "max_inf": 4,
           "zone": 2,
-          "hp": 15,
-          "sponge": 8
+          "hp": 19,
+          "sponge": 10
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-20",
-          "GB-S4-Fishermen-19-02-21"
+          "GB-S4-Fishermen-19-08-20",
+          "GB-S4-Fishermen-19-08-19"
         ]
       },
       {
         "name": "Kraken",
         "id": "f",
         "stats": {
-          "jog": 4,
-          "sprint": 6,
+          "jog": 5,
+          "sprint": 7,
           "tac": 5,
-          "kick": 2,
+          "kick": 3,
           "kick_distance": 6,
           "def": 3,
-          "arm": 0,
+          "arm": 1,
           "inf": 1,
           "max_inf": 3,
           "zone": 2,
@@ -141,8 +141,8 @@
           "sponge": 10
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-22",
-          "GB-S4-Fishermen-19-02-21"
+          "GB-S4-Fishermen-19-08-24",
+          "GB-S4-Fishermen-19-08-23"
         ]
       },
       {
@@ -159,12 +159,12 @@
           "inf": 2,
           "max_inf": 4,
           "zone": 2,
-          "hp": 15,
+          "hp": 14,
           "sponge": 8
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-24",
-          "GB-S4-Fishermen-19-02-23"
+          "GB-S4-Fishermen-19-08-26",
+          "GB-S4-Fishermen-19-08-25"
         ]
       },
       {
@@ -186,8 +186,8 @@
           "sponge": 4
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-10",
-          "GB-S4-Fishermen-19-02-09"
+          "GB-S4-Fishermen-19-08-10",
+          "GB-S4-Fishermen-19-08-09"
         ]
       },
       {
@@ -205,12 +205,12 @@
           "inf": 1,
           "max_inf": 3,
           "zone": 2,
-          "hp": 15,
+          "hp": 14,
           "sponge": 8
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-26",
-          "GB-S4-Fishermen-19-02-25"
+          "GB-S4-Fishermen-19-08-28",
+          "GB-S4-Fishermen-19-08-27"
         ]
       },
       {
@@ -228,12 +228,12 @@
           "inf": 4,
           "max_inf": 6,
           "zone": 2,
-          "hp": 17,
-          "sponge": 9
+          "hp": 16,
+          "sponge": 8
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-04",
-          "GB-S4-Fishermen-19-02-03"
+          "GB-S4-Fishermen-19-08-04",
+          "GB-S4-Fishermen-19-08-03"
         ]
       },
       {
@@ -245,7 +245,7 @@
           "tac": 3,
           "kick": 3,
           "kick_distance": 6,
-          "def": 4,
+          "def": 5,
           "arm": 0,
           "inf": 2,
           "max_inf": 3,
@@ -254,8 +254,8 @@
           "sponge": 5
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-28",
-          "GB-S4-Fishermen-19-02-27"
+          "GB-S4-Fishermen-19-08-30",
+          "GB-S4-Fishermen-19-08-29"
         ]
       },
       {
@@ -271,14 +271,14 @@
           "def": 4,
           "arm": 0,
           "inf": 2,
-          "max_inf": 4,
+          "max_inf": 3,
           "zone": 1,
           "hp": 10,
           "sponge": 5
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-30",
-          "GB-S4-Fishermen-19-02-29"
+          "GB-S4-Fishermen-19-08-32",
+          "GB-S4-Fishermen-19-08-31"
         ]
       },
       {
@@ -300,8 +300,8 @@
           "sponge": 5
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-12",
-          "GB-S4-Fishermen-19-02-11"
+          "GB-S4-Fishermen-19-08-12",
+          "GB-S4-Fishermen-19-08-11"
         ]
       },
       {
@@ -323,8 +323,30 @@
           "sponge": 7
         },
         "cards": [
-          "GB-S4-Fishermen-19-02-08",
-          "GB-S4-Fishermen-19-02-07"
+          "GB-S4-Fishermen-19-08-08",
+          "GB-S4-Fishermen-19-08-07"
+        ]
+      },
+      {
+        "name": "Knuckles",
+        "id": "o",
+        "stats": {
+          "jog": 5,
+          "sprint": 7,
+          "tac": 6,
+          "kick": 3,
+          "kick_distance": 6,
+          "def": 3,
+          "arm": 1,
+          "inf": 2,
+          "max_inf": 4,
+          "zone": 2,
+          "hp": 19,
+          "sponge": 10
+        },
+        "cards": [
+          "GB-S4-Fishermen-19-08-22",
+          "GB-S4-Fishermen-19-08-21"
         ]
       }
     ]
